@@ -441,6 +441,7 @@ h6 {
 @media (max-width: 768px) {
   #hero {
     height: 100vh;
+    background-position: left center;
   }
 
   #hero .container {
@@ -1292,10 +1293,10 @@ section {
 }
 
 .whattapp-icon-container {
-    position: fixed;
-    bottom: 10%;
-    right: 0%;
-    z-index: 2;
+  position: fixed;
+  bottom: 10%;
+  right: 0%;
+  z-index: 2;
 }
 
 /*--------------------------------------------------------------
